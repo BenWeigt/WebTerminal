@@ -1,1 +1,2 @@
 # WebTerminal
+Project stub. Incomplete.
